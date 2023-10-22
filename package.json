@@ -1,0 +1,23 @@
+{
+  "name": "aris",
+  "version": "1.0.0",
+  "description": "Aris Lesnar Anonim Chat Bot.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "Aris",
+    "Lesnar"
+  ],
+  "author": "Aris",
+  "license": "MIT",
+  "dependencies": {
+    "chillout": "^5.0.0",
+    "discord.js": "^14.8.0",
+    "mongoose": "^5.13.3",
+    "path": "^0.12.7",
+    "recursive-readdir": "^2.2.2",
+    "stuffs": "^0.1.12"
+  }
+}
